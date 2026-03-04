@@ -1,0 +1,8 @@
+flowchart TD
+  A[Conversational Entry<br/>Initial Dialogue] --> B[Concept Exploration<br/>Dialogue / Visual / Observation / Problem]
+  B --> C[Reflective Dialogue<br/>Explanation, Analysis, Scenario Discussion]
+  C --> D[Mastery Evaluation<br/>AI assesses conceptual understanding signals]
+  D --> E{Mastery Achieved?}
+  E -->|Yes| F[Learning Progression<br/>Next Topic]
+  E -->|No| G[Further Exploration<br/>& Reflection]
+  G --> B
