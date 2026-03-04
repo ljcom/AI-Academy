@@ -1,38 +1,42 @@
 # AI Academy Paper
 
-This repository contains the paper **From Knowledge Engines to AI Academy Engines: Rethinking Conversational AI for Learning Progression** in a structured section-based format (`manuscript/sections`) and a compiled PDF version.
+This repository contains two documents:
+
+- An academic paper version in `academic-paper/`
+- A whitepaper version in `whitepaper/`
 
 ## Authors
 
 - Surjo Santosa Sastroharjono, PT Liberty Jaya, Jakarta, surjo.sastroharjono@libertyjaya.com
 - Gunawan Wang, Binus University, Jakarta, gwang@binus.edu
 
-## Read the Paper
+## Read the Documents
 
-- Main source version: [academic-paper.md](academic-paper.md)
-- Split section version: [manuscript/sections](manuscript/sections)
-- Compiled PDF: [build/ai-academy-split.pdf](build/ai-academy-split.pdf)
+- Academic paper source: [academic-paper/academic-paper.md](academic-paper/academic-paper.md)
+- Academic paper split sections: [academic-paper/manuscript/sections](academic-paper/manuscript/sections)
+- Academic paper compiled PDF: [academic-paper/build/ai-academy-split.pdf](academic-paper/build/ai-academy-split.pdf)
+- Whitepaper source: [whitepaper/whitepaper.md](whitepaper/whitepaper.md)
 
 ## Download PDF (raw.githubusercontent.com)
 
 Use the following format to directly download the PDF from GitHub:
 
 ```text
-https://raw.githubusercontent.com/<OWNER>/<REPO>/main/build/ai-academy-split.pdf
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/academic-paper/build/ai-academy-split.pdf
 ```
 
 Example (replace with your repository):
 
 ```text
-https://raw.githubusercontent.com/your-username/AI-Academy/main/build/ai-academy-split.pdf
+https://raw.githubusercontent.com/your-username/AI-Academy/main/academic-paper/build/ai-academy-split.pdf
 ```
 
 ## Build PDF Locally
 
 ```bash
-./build.sh
+./academic-paper/build.sh
 ```
 
 Default output:
 
-- `build/ai-academy-split.pdf`
+- `academic-paper/build/ai-academy-split.pdf`
