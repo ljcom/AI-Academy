@@ -1,42 +1,57 @@
-# AI Academy Paper
+# AI Academy Papers
 
 This repository contains two documents:
 
-- An academic paper version in `academic-paper/`
-- A whitepaper version in `whitepaper/`
+- `academic-paper/`: research-style paper
+- `whitepaper/`: implementation-oriented whitepaper
 
 ## Authors
 
 - Surjo Santosa Sastroharjono, PT Liberty Jaya, Jakarta, surjo.sastroharjono@libertyjaya.com
 - Gunawan Wang, Binus University, Jakarta, gwang@binus.edu
 
-## Read the Documents
+## Documents
 
-- Academic paper source: [academic-paper/academic-paper.md](academic-paper/academic-paper.md)
-- Academic paper split sections: [academic-paper/manuscript/sections](academic-paper/manuscript/sections)
-- Academic paper compiled PDF: [academic-paper/build/ai-academy-split.pdf](academic-paper/build/ai-academy-split.pdf)
-- Whitepaper source: [whitepaper/whitepaper.md](whitepaper/whitepaper.md)
+Academic paper:
 
-## Download PDF (raw.githubusercontent.com)
+- Source: [academic-paper/academic-paper.md](academic-paper/academic-paper.md)
+- Split sections: [academic-paper/manuscript/sections](academic-paper/manuscript/sections)
+- PDF: [academic-paper/build/ai-academy-split.pdf](academic-paper/build/ai-academy-split.pdf)
 
-Use the following format to directly download the PDF from GitHub:
+Whitepaper:
 
-```text
-https://raw.githubusercontent.com/<OWNER>/<REPO>/main/academic-paper/build/ai-academy-split.pdf
-```
+- Source: [whitepaper/whitepaper.md](whitepaper/whitepaper.md)
+- Split sections: [whitepaper/manuscript/sections](whitepaper/manuscript/sections)
+- PDF: [whitepaper/build/whitepaper-ai-academy-engine.pdf](whitepaper/build/whitepaper-ai-academy-engine.pdf)
 
-Example (replace with your repository):
+## Build PDFs
 
-```text
-https://raw.githubusercontent.com/your-username/AI-Academy/main/academic-paper/build/ai-academy-split.pdf
-```
-
-## Build PDF Locally
+Build academic paper PDF:
 
 ```bash
 ./academic-paper/build.sh
 ```
 
-Default output:
+Build whitepaper PDF:
 
-- `academic-paper/build/ai-academy-split.pdf`
+```bash
+./whitepaper/build.sh
+```
+
+## Download PDF from GitHub (raw)
+
+Academic paper PDF:
+
+```text
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/academic-paper/build/ai-academy-split.pdf
+```
+
+Whitepaper PDF:
+
+```text
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/whitepaper/build/whitepaper-ai-academy-engine.pdf
+```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
