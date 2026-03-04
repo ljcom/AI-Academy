@@ -2,6 +2,11 @@
 
 This repository contains the paper **From Knowledge Engines to AI Academy Engines: Rethinking Conversational AI for Learning Progression** in a structured section-based format (`manuscript/sections`) and a compiled PDF version.
 
+## Authors
+
+- Surjo Santosa Sastroharjono, PT Liberty Jaya, Jakarta, surjo.sastroharjono@liberyjaya.com
+- Gunawan Wang, Binus University, Jakarta, gwang@binus.edu
+
 ## Read the Paper
 
 - Main source version: [paper.md](paper.md)
