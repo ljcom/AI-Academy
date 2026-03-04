@@ -1,0 +1,33 @@
+flowchart TD
+
+    L[Learner]
+
+    subgraph Interaction
+        C1[Conversational Interface]
+        C2[Dialogue Manager]
+    end
+
+    subgraph AI_Academy_Core
+        A1[Learning Pathway Engine]
+        A2[Reflection Dialogue Generator]
+        A3[Concept Understanding Detector]
+        A4[Mastery Evaluation Engine]
+        A5[Learning Progression Engine]
+    end
+
+    subgraph Governance
+        M1[Mentor Dashboard]
+        M2[Learning Analytics]
+    end
+
+    L --> C1
+    C1 --> C2
+
+    C2 --> A1
+    A1 --> A2
+    A2 --> A3
+    A3 --> A4
+    A4 --> A5
+
+    A5 --> M1
+    M1 --> M2
