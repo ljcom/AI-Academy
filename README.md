@@ -9,7 +9,7 @@ This repository contains the paper **From Knowledge Engines to AI Academy Engine
 
 ## Read the Paper
 
-- Main source version: [paper.md](paper.md)
+- Main source version: [paper.md](academic-paper.md)
 - Split section version: [manuscript/sections](manuscript/sections)
 - Compiled PDF: [build/ai-academy-split.pdf](build/ai-academy-split.pdf)
 
