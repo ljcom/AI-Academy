@@ -4,7 +4,7 @@ This repository contains the paper **From Knowledge Engines to AI Academy Engine
 
 ## Authors
 
-- Surjo Santosa Sastroharjono, PT Liberty Jaya, Jakarta, surjo.sastroharjono@liberyjaya.com
+- Surjo Santosa Sastroharjono, PT Liberty Jaya, Jakarta, surjo.sastroharjono@libertyjaya.com
 - Gunawan Wang, Binus University, Jakarta, gwang@binus.edu
 
 ## Read the Paper
